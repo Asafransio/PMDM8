@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BitacoraApp</string>
+    <string name="action_settings">Modificar</string>
+    <string name="action_settings2">Borrar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Volver</string>
+
+    <string name="title_cuadernos">Mis Bitacoras</string>
+    <string name="hint_cuaderno">Nombre del cuaderno</string>
+
+    <string name="dialogCI_titulo">Nuevo Cuaderno</string>
+    <string name="dialogCI_titulo2">Qué hacer</string>
+    <string name="dialogCI_titulo3">¿Seguro?</string>
+    <string name="dialogAI_titulo">Nuevo Apunte</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="todo">TODO</string>
+</resources>
